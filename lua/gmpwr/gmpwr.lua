@@ -41,7 +41,7 @@ local render_OverrideColorWriteEnable = render.OverrideColorWriteEnable
 --
 local worldmask = GetRenderTarget("_rt_PWR_WorldMask_"..rtW.."x"..rtH, ScrW() / 2, ScrH() / 2)
 local planemask = GetRenderTarget("_rt_PWR_PlaneMask_"..rtW.."x"..rtH, ScrW() / 2, ScrH() / 2)
-local canvas    = GetRenderTarget("_rt_PWR_Canvas_"..rtW.."x"..rtH,    rtW, rtH)
+local canvas    = GetRenderTarget("_rt_PWR_Canvas_"..rtW.."x"..rtH, rtW, rtH)
 
 -- bet you can't guess what this is for
 local world = game.GetWorld()
