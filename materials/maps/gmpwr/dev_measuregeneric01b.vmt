@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture  dev/dev_measuregeneric01b
+	$normalmap 	  maps/reftest/dev_measuregeneric01b_n
+	$bumpmap   	  maps/reftest/dev_measuregeneric01b_n
+	
+	$reflectworld          1
+	$reflectworldtint      "[1 1 1]"
+}

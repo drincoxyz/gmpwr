@@ -1,0 +1,1 @@
+AddCSLuaFile "gmpwr/gmpwr.lua"
